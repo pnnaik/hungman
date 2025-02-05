@@ -1,13 +1,26 @@
 /* Variabes */
 /* Mixin's */
-body {
+/* body {
     background: green;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     color: #fff;
     height: 100%;
     text-align: center;
     font-size: 18px;
-  }
+  } */
+
+  /* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('./image/premium_photo-1701534008693-0eee0632d47a.jpg'); /* Path to your background image */
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    color: #fff;
+    height: 100%;
+    text-align: center;
+    font-size: 18px;
+    
+}
+
   
   .wrappper {
     width: 100%;
